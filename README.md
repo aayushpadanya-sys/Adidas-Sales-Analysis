@@ -50,12 +50,12 @@ This project analyzes Adidas sales performance using Power BI to provide actiona
 │   └──adidas_dashboard.pbix
 ├── data/
 │   └── Adidas_US_Sales_Datasets.csv
+├── presentation/
+│   └── Adidas-Sales-Performance-Analysis-slides.pptx
 ├── project_recording/
 │   └──Addidas_Project_Recording.mp4
 ├── summary_report/
 │   └── project_report.pdf
-├── presentation/
-│   └── Detailed_Executive_Summary.pptx
 ├── README.md
 ```
 
