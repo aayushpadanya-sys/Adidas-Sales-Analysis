@@ -1,6 +1,6 @@
 # Adidas Sales Performance Analysis | Power BI & Excel
 
-![Dashboard Screenshot](Adidas_Dashboard_Image.png)
+![Dashboard Screenshot](assets/Adidas_Dashboard_Image.png)
 
 ## Project Overview
 This project analyzes Adidas sales performance using Power BI to provide actionable insights for business decision-making. The dashboard consolidates key metrics such as total sales, profit, units sold, and operating margins, while also highlighting trends across products, regions, and sales channels.
@@ -39,19 +39,35 @@ This project analyzes Adidas sales performance using Power BI to provide actiona
 
 ## Tools Used
 - **Power BI:** Dashboard creation, KPIs, interactive slicers, visualization design  
-- **AI Tools:** For documentation, summary writing, and presentation support  
+- **AI Tools:** For documentation, summary writing, and presentation support
+
+## Project Structure
+```
+├── assets/
+│   ├── Adidas_Dashboard_Image.png
+│   └── Adidas_logo.png
+├── dashboard/
+│   └──adidas_dashboard.pbix
+├── data/
+│   └── Adidas_US_Sales_Datasets.csv
+├── project_recording/
+│   └──Addidas_Project_Recording.mp4
+├── summary_report/
+│   └── project_report.pdf
+├── presentation/
+│   └── Detailed_Executive_Summary.pptx
+├── README.md
+```
 
 ## Full Executive Summary 📄
-[Download Full Executive Summary](Detailed_Executive_Summary.docx)  
+[Download Full Executive Summary](summary_report/Detailed_Executive_Summary.docx)  
 
----
 
 ## Project Files 📊
-- [Power BI Dashboard File (.pbix)](adidas_dashboard.pbix)  
-- [adidas_raw_data(.xlsx)](Adidas_US_Sales_Datasets.xlsx)  
+- [Power BI Dashboard File (.pbix)](dashboard/adidas_dashboard.pbix)  
+- [adidas_raw_data(.xlsx)](data/Adidas_US_Sales_Datasets.xlsx)  
 
----
 
 ## Video Walkthrough 🎥
-[Watch Dashboard Interaction (30 sec)](Addidas_Project_Recording.mp4)  
+[Watch Dashboard Interaction (30 sec)](project_recording/Addidas_Project_Recording.mp4)  
 *Short interactive demo showing filters, slicers, and KPIs*
