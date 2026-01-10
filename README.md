@@ -71,3 +71,10 @@ This project analyzes Adidas sales performance using Power BI to provide actiona
 ## Video Walkthrough 🎥
 [Watch Dashboard Interaction (30 sec)](project_recording/Addidas_Project_Recording.mp4)  
 *Short interactive demo showing filters, slicers, and KPIs*
+
+### Author
+**Ayush Padaniya**  
+
+📧 Email: aayush.padanya@gmail.com
+
+💼 LinkedIn: [https://linkedin.com/in/ayushpadaniya](https://www.linkedin.com/in/ayush-padaniya-26b212318/)
